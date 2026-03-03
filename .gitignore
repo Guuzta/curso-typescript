@@ -3,6 +3,7 @@
 
 ### Node ###
 # Logs
+/frontend/assets/js
 logs
 *.log
 npm-debug.log*

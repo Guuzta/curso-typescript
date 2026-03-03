@@ -5,7 +5,7 @@
     "lib": ["DOM"],
     "strict": true,
     "skipLibCheck": true,
-    "outDir": "./dist"
+    "outDir": "./frontend/assets/js"
   },
   "include": ["./src"]
 }
