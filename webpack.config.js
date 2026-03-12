@@ -5,7 +5,7 @@ const path = require("path");
 /** @type {import('webpack').Configuration} */
 module.exports = {
   mode: "development",
-  entry: "./src/A0018-webpack/index.ts",
+  entry: "./src/A0019-exercicio/form-control.ts",
 
   module: {
     rules: [
